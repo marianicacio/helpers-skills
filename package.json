@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "./src/helpers/fundamentos.js",
   "scripts": {
-    "dev": "node ./src/helpers/fundamentos.js"
+    "dev": "node ./src/helpers/fundamentos.js",
+    "api": "node ./src/helpers/api.je"
   },
   "keywords": [],
   "repository": {
