@@ -1,0 +1,15 @@
+{
+  "name": "helpers-skills",
+  "version": "1.0.0",
+  "main": "./src/helpers/fundamentos.js",
+  "scripts": {
+    "dev": "node ./src/helpers/fundamentos.js"
+  },
+  "keywords": [],
+  "repository": {
+    "url": "https://github.com/marianicacio/helpers-skills"
+  },
+  "author": "https://github.com/marianicacio",
+  "license": "ISC",
+  "description": "created for students"
+}
